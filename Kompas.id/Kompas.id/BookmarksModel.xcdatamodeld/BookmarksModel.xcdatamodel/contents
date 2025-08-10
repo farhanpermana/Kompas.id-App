@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24F74" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="BookmarkedArticle" representedClassName="BookmarkedArticle" syncable="YES" codeGenerationType="class">
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="publishedTime" optional="YES" attributeType="String"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+</model>
