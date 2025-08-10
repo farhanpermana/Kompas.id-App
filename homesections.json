@@ -1,0 +1,195 @@
+[
+  {
+    "type": "breaking_news",
+    "title": "Breaking News",
+    "data": {
+      "breaking_news": {
+        "headline": "Celaka 12! Ini 12 Kisah Pembunuhan dan Pesan di Baliknya",
+        "subheadline": "Dua belas kasus pembunuhan dan analisis data oleh Tim Jurnalisme Data Harian Kompas.",
+        "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg",
+        "published_time": "5 menit lalu",
+        "articles": [
+          {
+            "title": "Kasus Pembunuhan Global: Ekonomi Lemah, Pembunuhan Bertambah",
+            "published_time": "5 menit lalu"
+          },
+          {
+            "title": "Cepat Emosi, Anak Muda Indonesia Gampang Membunuh",
+            "published_time": "5 menit lalu"
+          },
+          {
+            "title": "Pembunuhan oleh Keluarga, dari Suami Bunuh Istri hingga Ibu Bunuh Anak",
+            "published_time": "5 menit lalu"
+          }
+        ],
+        "source": "Harian Kompas"
+      }
+    }
+  },
+  {
+    "type": "live_report",
+    "title": "Reportase Langsung",
+    "data": {
+      "live_report": {
+        "report_type": "Reportase Langsung",
+        "main_article": {
+          "category": "Kampanye Pamungkas Anies, Prabowo, dan Ganjar",
+          "title": "Di Jakarta, Prabowo Tinggalkan Lokasi Kampanye Akbar di GBK",
+          "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg",
+          "published_time": "1 menit lalu"
+        },
+        "related_articles": [
+          {
+            "title": "Megawati Bernyanyi dan Berjoget saat Kampanye Ganjar-Mahfud di Semarang",
+            "published_time": "5 menit lalu"
+          },
+          {
+            "title": "Gibran Harap Semua Pendukung di GBK Coblos No 2 di TPS",
+            "published_time": "15 menit lalu"
+          }
+        ],
+        "more_reports": {
+          "label": "Lihat laporan lainnya",
+          "count": "5+"
+        },
+        "featured_articles": [
+          {
+            "title": "Presiden Minta 'Bola Panas' Kadin Jangan Dilempar ke Dirinya",
+            "image": "https://assetd.kompas.id/Nl7N1gv_87m3REe3H3GE3_Nfqro=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F10%2F5e5b4683264b57b14e6c814ad36e6bfd-IMG_2969.jpeg"
+          },
+          {
+            "title": "Presiden Minta 'Bola Panas' Kadin Jangan Dilempar ke Dirinya",
+            "image": "https://assetd.kompas.id/EzWbvNyKtJhmGYQB_lIZso7f0JM=/160x160/filters:format(webp)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2025%2F07%2F15%2F9a425488-115b-437c-a573-4db9b54daf7f_jpg.jpg"
+          },
+          {
+            "title": "Presiden Minta 'Bola Panas' Kadin Jangan Dilempar ke Dirinya",
+            "image": "https://assetd.kompas.id/wUEIgH1_uOs7KpWVWhb4cM8-wKQ=/160x160/filters:format(webp)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2025%2F08%2F10%2Ffe36224f-4c9f-4b64-9762-a688a6104aa5_jpg.jpg"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "iframe_campaign",
+    "title": "Iklan",
+    "data": {
+      "iframe_campaign": {
+        "title": "Widget",
+        "subtitle": "Lihat selengkapnya",
+        "url": "https://www.kompas.id/"
+      }
+    }
+  },
+  {
+    "type": "articles",
+    "title": "Kabinet Prabowo",
+    "data": {
+      "articles": [
+        {
+          "title": "Kandidat Menteri Prabowo, Profesional yang Sekaligus Kader Parpol",
+          "description": "Dua belas kasus pembunuhan dan analisis data oleh Tim Jurnalisme Data Harian Kompas.",
+          "image_description": "Foto resmi jajaran menteri berdiri di Istana Negara",
+          "media_count": 10,
+          "image": "https://assetd.kompas.id/8sLp8InC_Ad6kTPKB956tAWSgtU=/160x160/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F06%2F27%2F9591cf6a3e95adfad6027f742e6a14a1-WhatsApp_Image_2025_06_27_at_18.42.03.jpeg"
+        },
+        {
+          "title": "Koalisi Supergemuk; Kabinet 'Zaken' Bukan, Ya?",
+          "description": null
+        },
+        {
+          "title": "Walau Tanpa Partisipasi Publik, DPR Bakal Sahkan Tiga RUU Kilat Kamis Esok",
+          "description": null
+        }
+      ]
+    }
+  },
+  {
+    "type": "hot_topics",
+    "title": "Topik Hangat",
+    "data": {
+      "hot_topics": {
+        "section": "Topik Hangat",
+        "topics": [
+          {
+            "title": "Kunjungan Paus",
+            "image_description": "Paus Fransiskus melambaikan tangan",
+            "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg"
+          },
+          {
+            "title": "Kabinet Prabowo",
+            "image_description": "Prabowo Subianto bersama pejabat lainnya",
+            "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg"
+          },
+          {
+            "title": "PON 2024",
+            "image_description": "Logo dan maskot PON 2024",
+            "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg"
+          },
+          {
+            "title": "Pilkada 2024",
+            "image_description": "Ilustrasi Pilkada dengan kotak suara",
+            "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg"
+          },
+          {
+            "title": "Macet Puncak",
+            "image_description": "Kemacetan kendaraan di jalur Puncak",
+            "image": "https://assetd.kompas.id/6N44v425zj2UHYjlDnwSlqhT1lI=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F03%2F64d308f908cd61e891be036e404d3b1a-20250804_Opini_Kebijakan_yang_Tidak_Bijaksana.jpg"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "articles",
+    "title": "PON Aceh–Sumut 2024",
+    "data": {
+      "articles": [
+        {
+          "title": "Atlet Muda Paling Dirugikan dari Indikasi Kecurangan PON",
+          "label": "Eksklusif",
+          "description": "Dua belas kasus pembunuhan dan analisis data oleh Tim Jurnalisme Data Harian Kompas.",
+          "image_description": "Punggung atlet dengan kaus hijau mengangkat tangan di stadion penuh penonton",
+          "image": "https://assetd.kompas.id/tjMsl6rl_Vd3duSboxdpaILLTCI=/160x160/filters:format(webp)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2025%2F08%2F09%2F997be939-7d72-4224-9e8e-c09c9d425e14_jpg.jpg"
+        },
+        {
+          "title": "Jaminan Wasit Berkualitas Tumbuhkan Semangat Jatim–Jabar di Final",
+          "description": null
+        },
+        {
+          "title": "Kontroversi di PON Aceh Mencoreng Sepak Bola Indonesia, Bagaimana Itu Terjadi?",
+          "description": null
+        }
+      ]
+    }
+  },
+  {
+    "type": "articles",
+    "title": "Olahraga",
+    "data": {
+      "articles": [
+        {
+          "title": "Jelang AS Terbuka, Sinner dan Sabalenka Jalani Pemanasan di Cincinnati",
+          "label": "Eksklusif",
+          "description": "Dua belas kasus pembunuhan dan analisis data oleh Tim Jurnalisme Data Harian Kompas.",
+          "image_description": "Punggung atlet dengan kaus hijau mengangkat tangan di stadion penuh penonton",
+          "image": "https://assetd.kompas.id/Nl7N1gv_87m3REe3H3GE3_Nfqro=/720x405/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F10%2F5e5b4683264b57b14e6c814ad36e6bfd-IMG_2969.jpeg"
+        },
+        {
+          "title": "Gyokeres Kurang Andal Menyundul Bola, Kata Siapa?",
+          "description": "Arsenal seperti memenangi lotre di laga pramusim terakhir. Penyerang Viktor Gyokeres ternyata punya kemampuan menyundul yang jauh lebih baik dari ekspektasi.",
+          "image": "https://assetd.kompas.id/PPHXGAT5_mHA6jHdRzpnKqhl4Ns=/160x160/filters:format(webp)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2025%2F08%2F10%2F1ae555cf-c103-41e9-96a1-3bc34f08fd49_jpeg.jpg"
+        },
+        {
+          "title": "Komplikasi Cedera Rodri, Alarm untuk Manchester City",
+          "description": null,
+          "image": "https://assetd.kompas.id/BckCUL-WrUIzHteu09mV3Lf_HBQ=/160x160/filters:format(webp)/https%3A%2F%2Fcdn-dam.kompas.id%2Fimages%2F2025%2F08%2F09%2F979b0620fc028a04dbb91b3c45dab868-cropped_image.jpg"
+        },
+        {
+          "title": "Gyok Kurang Andal Menyundul Bola, Kata Siapa?",
+          "description": "Arsenal seperti memenangi lotre di laga pramusim terakhir. Penyerang Viktor Gyokeres ternyata punya kemampuan menyundul yang jauh lebih baik dari ekspektasi.",
+          "image": "https://assetd.kompas.id/PPHXGAT5_mHA6jHdRzpnKqhl4Ns=/160x160/filters:format(webp)/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2025%2F08%2F10%2F1ae555cf-c103-41e9-96a1-3bc34f08fd49_jpeg.jpg"
+        }
+      ]
+    }
+  }
+]
