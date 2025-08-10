@@ -14,9 +14,16 @@ class ReusableArticleSectionTableViewCell: UITableViewCell {
     
     private let titleLabel: UILabel = {
         let label = UILabel()
-        label.font = UIFont.boldSystemFont(ofSize: 20)
-        label.textColor = .black
+        label.font = UIFont.boldSystemFont(ofSize: 18)
+        label.textColor = UIColor.fromHex("#00559a")
         return label
+    }()
+    
+    private let chevronView: UIImageView = {
+        let iv = UIImageView(image: UIImage(systemName: "chevron.right"))
+        iv.contentMode = .scaleAspectFit
+        iv.tintColor = UIColor.fromHex("#00559a")
+        return iv
     }()
     
     private let mainStackView: UIStackView = {
@@ -41,11 +48,20 @@ class ReusableArticleSectionTableViewCell: UITableViewCell {
         selectionStyle = .none
         
         contentView.addSubview(titleLabel)
+        contentView.addSubview(chevronView)
         contentView.addSubview(mainStackView)
+        
+        chevronView.snp.makeConstraints { make in
+            make.trailing.equalToSuperview().inset(16)
+            make.centerY.equalTo(titleLabel.snp.centerY)
+            make.width.equalTo(10)
+            make.height.equalTo(16)
+        }
         
         titleLabel.snp.makeConstraints { make in
             make.top.equalToSuperview().offset(16)
-            make.leading.trailing.equalToSuperview().inset(16)
+            make.leading.equalToSuperview().inset(16)
+            make.trailing.equalTo(chevronView.snp.leading).offset(-8)
         }
         
         mainStackView.snp.makeConstraints { make in
